@@ -1,3 +1,3 @@
-# iumien-new-roman-script-to-iumien-lao-script
+# iumien-new-roman-script-to-iumien-laos-script
 
 There is currently a disconnect in communication among the Iu Mien people of different countries. In the project, I am focusing on the Iu Mien of Laos. The project bridges the disconnect by providing a way for Iu Mien to convert the official Iu Mien new Roman script to an unofficial standard of Iu Mien written using the Lao script. A user can paste in a sentence in the Iu Mien new Roman script or the Laos script and it will convert to the other script. This allows the Iu Mien in the United States to read the idea and thoughts of Iu Mien in Laos who are only able to communicate with the Lao script. This provides a way to communicate with the absence of Iu Mien to Laos translation service.
